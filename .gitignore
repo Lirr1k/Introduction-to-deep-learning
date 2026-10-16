@@ -1,0 +1,14 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Course artifacts
+models/*.p
+*.zip
+output/
